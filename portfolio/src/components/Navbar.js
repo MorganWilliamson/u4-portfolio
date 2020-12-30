@@ -12,9 +12,7 @@ const Navbar = (props) => {
             <h1>Morgan Williamson</h1>
             <nav>
                 <a href="/">ABOUT</a>
-                <br/>
                 <a href="/">PROJECTS</a>
-                <br/>
                 <a href="/">CONTACT</a>
             </nav>
             <button onClick={toggleMode} className={props.darkMode ? 'toggleOn' : 'toggleOff'}>Dark Mode</button>
