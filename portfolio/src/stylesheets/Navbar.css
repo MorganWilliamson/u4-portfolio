@@ -28,5 +28,6 @@
 
 .navbar button {
     border: 1px solid blue;
-    margin-left: 10%;
+    margin-top: 2%;
+    height: 40%;
 }
