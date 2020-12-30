@@ -1,11 +1,14 @@
+import React, { useState } from "react";
 import './App.css';
 import Navbar from "./components/Navbar";
 
-function App() {
+const App = () => {
+  const [darkMode, setDarkMode] = useState(false);
+
   return (
     <div className="App">
       <header className="App-header">
-        <Navbar />
+        <Navbar darkMode={darkMode} setDarkMode={setDarkMode}/>
         <p>Application is rendering.</p>
       </header>
     </div>
