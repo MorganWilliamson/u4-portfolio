@@ -8,7 +8,7 @@ const Navbar = (props) => {
     };
 
     return (
-        <div className="navbar">
+        <section className="navbar">
             <h1>Morgan Williamson</h1>
             <nav>
                 <a href="/">ABOUT</a>
@@ -16,7 +16,7 @@ const Navbar = (props) => {
                 <a href="/">CONTACT</a>
             </nav>
             <button onClick={toggleMode} className={props.darkMode ? 'toggleOn' : 'toggleOff'}>Dark Mode</button>
-        </div>
+        </section>
     )
 }
 
