@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import './App.css';
 import Navbar from "./components/Navbar";
 import About from "./components/About";
-// import Projects from "./components/Projects";
+import Projects from "./components/Projects";
 // import Contact from "./components/Contact";
 // import Footer from "./components/Footer";
 
@@ -14,10 +14,10 @@ const App = () => {
       <header className="App-header">
         <Navbar darkMode={darkMode} setDarkMode={setDarkMode}/>
         <About />
-        {/* <Projects />
-        <Contact />
+        <Projects />
+        {/* <Contact />
         <Footer /> */}
-        <p>Application is rendering.</p>
+        <p>App component is rendering.</p>
       </header>
     </div>
   );

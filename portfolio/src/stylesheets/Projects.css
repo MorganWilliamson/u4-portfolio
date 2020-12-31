@@ -1,0 +1,22 @@
+.projects {
+    margin-top: 1%;
+    font-size: 1.5em;
+}
+
+.projects h2 {
+    padding-left: 2%;
+}
+
+.projectsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2%;
+}
+
+.projectsContainer a {
+    background: rgb(44, 44, 44);
+    color: #f4f4ff;
+    text-decoration: none;
+    padding: 0% 3%;
+    border-radius: 5px;
+}
