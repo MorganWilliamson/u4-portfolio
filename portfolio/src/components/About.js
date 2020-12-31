@@ -8,6 +8,8 @@ const About = () => {
             <div className="aboutInfo">
                 <h2>Hello!</h2>
                 <h3>My name is Morgan, I'm a Full-Stack Web Developer based in Arkansas.</h3>
+                <p>I specialize in <strong>JavaScript, React, Redux, Node.js/Express,</strong> and <strong>HTML/CSS.</strong></p>
+                <p>(Sometimes I work with <strong>Python</strong> too, just don't tell anyone. Shh.)</p>
                 <p>Click here to get in touch:</p>
                 <Link className="aboutLink" to="/contact">Contact Me</Link>
             </div>

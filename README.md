@@ -27,16 +27,16 @@ This site was composed using:
 ### This isn't procrastination, this is ~Planning!~
 - Come back and delete this during cleanup.
 ------------------------------------------------------------------------------------------------
-| NAME                                                      ABOUT   PROJECTS    CONTACT    |DM| |        <--- [] - NAVBAR
+| NAME                                                      ABOUT   PROJECTS    CONTACT    |DM| |        <--- [*] - NAVBAR
 |                                                                                               |
 |         ******************* - PAGE BREAK - *******************                                |
 |       ABOUT                                                                                   |        
-|       Hello!                                            -----                                 |        <--- [] - ABOUT
+|       Hello!                                            -----                                 |        <--- [*] - ABOUT
 |         -intro blurb-                                   |SVG|                                 |
 |         -contact button-                                -----                                 |
 |                                                                                               |
 |         ******************* - PAGE BREAK - *******************                                |
-|       PROJECTS                                                                                |        <--- [] - PROJECTS
+|       PROJECTS                                                                                |        <--- [*] - PROJECTS
 |       -----------         -----------         -----------         -----------                 |
 |       |  -title- |        |  -title- |        |  -title- |        |  -title- |                |
 |       |  -links- |        |  -links- |        |  -links- |        |  -links- |                |

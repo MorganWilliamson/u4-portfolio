@@ -10,9 +10,8 @@ const Projects = () => {
                     <h4>Project Name 1</h4>
                     <p>Project 1 description</p>
                     <ul>Tools Used:
-                        <li>React</li>
-                        <li>Node</li>
-                        <li>SQL</li>
+                        <li>React/Redux</li>
+                        <li>Svelte</li>
                     </ul>
                 </a>
 
@@ -20,8 +19,8 @@ const Projects = () => {
                     <h4>Project Name 2</h4>
                     <p>Project 2 description</p>
                     <ul>Tools Used:
-                        <li>React</li>
                         <li>Node</li>
+                        <li>Express</li>
                         <li>SQL</li>
                     </ul>
                 </a>
@@ -30,9 +29,7 @@ const Projects = () => {
                     <h4>Project Name 3</h4>
                     <p>Project 3 description</p>
                     <ul>Tools Used:
-                        <li>React</li>
-                        <li>Node</li>
-                        <li>SQL</li>
+                        <li>Python</li>
                     </ul>
                 </a>
             </div>
