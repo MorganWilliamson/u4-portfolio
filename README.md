@@ -18,6 +18,10 @@ This site was composed using:
 - [LinkedIn](https://www.linkedin.com/in/morgan-t-williamson/)
 - [Twitter](https://twitter.com/MorganW_dev)
 
+## Resources
+- Site hosted on 
+- Laptop image provided open source from Oskar Yildiz, via Unsplash. https://unsplash.com/photos/cOkpTiJMGzA
+
 
 
 ### This isn't procrastination, this is ~Planning!~

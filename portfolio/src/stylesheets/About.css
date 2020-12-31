@@ -1,0 +1,42 @@
+/* about = whole section
+   aboutInfo = left-hand side text
+   aboutImage = laptop image
+   aboutLink = link to contact section
+*/
+
+.about {
+    display: flex;
+    justify-content: space-evenly;
+    max-height: 80%;
+}
+
+.about img {
+    height: 40vh;
+    object-fit: contain;
+}
+
+.aboutImage {
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.aboutInfo {
+    font-size: 1.5em;
+}
+
+.aboutLink {
+    text-decoration: none;
+    color: white;
+    border: 1px solid blue;
+    padding: 1%;
+    background: blue;
+    border-radius: 12px;
+}
+
+.aboutLink:hover {
+    color: blue;
+    background: white;
+}
