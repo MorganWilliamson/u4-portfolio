@@ -21,6 +21,7 @@ This site was composed using:
 ## Resources
 - Site hosted on 
 - Laptop image provided open source from Oskar Yildiz, via Unsplash. https://unsplash.com/photos/cOkpTiJMGzA
+- Social Media icons provided by Simple Icons, at https://simpleicons.org 
 
 
 
@@ -42,7 +43,7 @@ This site was composed using:
 |       |  -links- |        |  -links- |        |  -links- |        |  -links- |                |
 |       -----------         -----------         -----------         -----------                 |
 |                                                                                               |
-|         ******************* - PAGE BREAK - *******************                                |        <--- [] - CONTACT
+|         ******************* - PAGE BREAK - *******************                                |        <--- [*] - CONTACT
 |                                                                                               |
 |           -----                              -MORE INFO-                                      |
 |           |SVG|                         -SOCIAL MEDIA LINKS-                                  |
@@ -50,7 +51,7 @@ This site was composed using:
 |                                                                                               |
 |         ******************* - PAGE BREAK - *******************                                |
 |                                                                                               |
-|                                                                                               |        <--- [] - FOOTER
+|                                                                                               |        <--- [*] - FOOTER
 |     -Name-                                                                                    |
 |     -Link to Portfolio Repo-                                   -Social Media Links (icons)    |
 |                                                                                               |

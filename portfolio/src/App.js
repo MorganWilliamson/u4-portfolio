@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-// import Footer from "./components/Footer";
+import Footer from "./components/Footer";
 
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -16,7 +16,7 @@ const App = () => {
         <About />
         <Projects />
         <Contact />
-        {/* <Footer /> */}
+        <Footer />
         <p>App component is rendering.</p>
       </header>
     </div>
