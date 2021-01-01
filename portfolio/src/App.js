@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Projects from "./components/Projects";
-// import Contact from "./components/Contact";
+import Contact from "./components/Contact";
 // import Footer from "./components/Footer";
 
 const App = () => {
@@ -15,8 +15,8 @@ const App = () => {
         <Navbar darkMode={darkMode} setDarkMode={setDarkMode}/>
         <About />
         <Projects />
-        {/* <Contact />
-        <Footer /> */}
+        <Contact />
+        {/* <Footer /> */}
         <p>App component is rendering.</p>
       </header>
     </div>
