@@ -20,5 +20,5 @@ This site was composed using:
 
 ## Resources
 - Site hosted on 
-- Laptop image provided open source from Oskar Yildiz, via Unsplash. https://unsplash.com/photos/cOkpTiJMGzA
-- Social Media icons provided by Simple Icons, at https://simpleicons.org 
+- Laptop image provided open source from Oskar Yildiz, via Unsplash: https://unsplash.com/photos/cOkpTiJMGzA
+- Social Media icons provided by Simple Icons, at: https://simpleicons.org 
