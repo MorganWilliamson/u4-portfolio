@@ -1,4 +1,5 @@
 import React from "react";
+import axios from "axios";
 import "../stylesheets/Contact.css";
 
 class Contact extends React.Component {
@@ -23,10 +24,27 @@ class Contact extends React.Component {
         this.setState({message: e.target.value})
     }
 
+    resetForm = () => {
+        this.setState({ name: '', email: '', message: '' })
+    }
+
     handleSubmit = (e) => {
         e.preventDefault()
-        alert('Your form has been submitted. Thank you!')
-        this.setState({value: e.target.value})
+        // Come back and update URL
+        axios.post('http://localhost:3000/send')
+            .then((res) => {
+                if (res.data.status === 'success') {
+                    alert("Message sent. Thank you!");
+                    this.resetForm()
+                } else if (res.data.status === 'fail') {
+                    alert("Message could not be sent.");
+                    console.log("Failure.")
+                }
+            })
+            .catch((err) => {
+                alert("The system encountered an error.")
+                console.log(err.message)
+            })
     }
 
     render() {
