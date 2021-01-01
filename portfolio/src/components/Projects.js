@@ -32,6 +32,16 @@ const Projects = () => {
                         <li>Python</li>
                     </ul>
                 </a>
+
+                <a href="https://www.google.com" rel="noreferrer" target="_blank">
+                    <h4>Project Name 4</h4>
+                    <p>Project 4 description</p>
+                    <ul>Tools Used:
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                    </ul>
+                </a>
             </div>
         </section>
     )
