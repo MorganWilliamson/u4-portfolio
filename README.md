@@ -1,4 +1,4 @@
-# PORTFOLIO SITE #
+# Portfolio Site #
 
 ## Hello!
 If you're reading this, thank you for taking the time to view my portfolio page. Here you'll find links (repos and deployed sites) to some of the most recent projects I've worked on, and links to my social media as well.
