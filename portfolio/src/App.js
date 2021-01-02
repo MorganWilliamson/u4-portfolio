@@ -13,12 +13,11 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <Navbar darkMode={darkMode} setDarkMode={setDarkMode}/>
+      </header>
         <About />
         <Projects />
         <Contact />
         <Footer />
-        <p>App component is rendering.</p>
-      </header>
     </div>
   );
 }
