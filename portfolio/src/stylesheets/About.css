@@ -21,6 +21,10 @@
     margin-bottom: 3vh;
 }
 
+.about h2 {
+    padding-top: 1%;
+}
+
 .aboutLink {
     text-decoration: none;
     color: white;

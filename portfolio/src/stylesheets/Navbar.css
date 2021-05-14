@@ -10,13 +10,12 @@
         0 0,
         100% 0,
         100% 100%,
-        0 calc(100% - 2vw)
+        0 calc(100% - 3vh)
     );
 }
 
 .navbar h1 {
     font-size: 2.2em;
-    margin-right: 10%;
 }
 
 .navbar nav {
