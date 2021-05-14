@@ -1,6 +1,15 @@
 .projects {
     margin-top: 1%;
     font-size: 1.5em;
+    background-color: black;
+    color: white;
+    padding: 1%;
+    clip-path: polygon(
+        0 2vw, 
+        100% 0px, 
+        100% 100%, 
+        0px 100%
+    );
 }
 
 .projects h2 {
