@@ -10,39 +10,39 @@ const Projects = () => {
                     <h4>African Marketplace</h4>
                     <p>Mock eCommerce site that's <br/> meant to be used by <br/>small businesses in East Africa.</p>
                     <ul>Tools Used:
+                        <li>JavaScript</li>
                         <li>React</li>
                         <li>Redux</li>
-                        <li>yup</li>
                     </ul>
                 </a>
 
-                <a href="https://www.google.com" rel="noreferrer" target="_blank">
-                    <h4>Project Name 2</h4>
-                    <p>Project 2 description</p>
+                <a href="https://github.com/Lambda-School-Labs/story-squad-fe" rel="noreferrer" target="_blank">
+                    <h4>Story Squad</h4>
+                    <p>Browser based reading, <br/>writing, and drawing game <br/>meant to spark creativity.</p>
                     <ul>Tools Used:
-                        <li>Placeholder</li>
-                        <li>Placeholder</li>
-                        <li>Placeholder</li>
+                        <li>React</li>
+                        <li>Node.js</li>
+                        <li>Ant Design</li>
                     </ul>
                 </a>
 
                 <a href="https://github.com/MorganWilliamson/pokeapi-test" rel="noreferrer" target="_blank">
                     <h4>React PokéDex</h4>
-                    <p>A PokéDex web app that <br/>utilizes the PokéAPI.</p>
+                    <p>A simple "PokéDex" web app <br/>with search functionality<br/> that utilizes the PokéAPI.</p>
                     <ul>Tools Used:
                         <li>React</li>
                         <li>JavaScript</li>
-                        <li>Axios</li>
+                        <li>PokéAPI</li>
                     </ul>
                 </a>
 
-                <a href="https://www.google.com" rel="noreferrer" target="_blank">
-                    <h4>Project Name 4</h4>
-                    <p>Project 4 description</p>
+                <a href="https://github.com/BW-webft16-CO-MAKE/back-end" rel="noreferrer" target="_blank">
+                    <h4>Co-Make</h4>
+                    <p>Community driven app for <br/>tracking local issues such<br/> as hazards or vandalism.</p>
                     <ul>Tools Used:
-                        <li>Placeholder</li>
-                        <li>Placeholder</li>
-                        <li>Placeholder</li>
+                        <li>Node.js</li>
+                        <li>JavaScript</li>
+                        <li>Redux</li>
                     </ul>
                 </a>
             </div>

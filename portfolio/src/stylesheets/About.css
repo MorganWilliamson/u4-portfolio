@@ -24,14 +24,14 @@
 .aboutLink {
     text-decoration: none;
     color: white;
-    border: 1px solid blue;
+    border: 1px solid #5882cf;
     padding: 1%;
-    background: blue;
+    background: #5882cf;
     border-radius: 12px;
     text-shadow: none;
 }
 
 .aboutLink:hover {
-    color: blue;
+    color: #5882cf;
     background: white;
 }

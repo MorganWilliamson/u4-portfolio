@@ -10,11 +10,11 @@ const Navbar = (props) => {
     return (
         <section className="navbar">
             <h1>Morgan Williamson</h1>
-            <nav>
+            {/* <nav>
                 <a href="/">ABOUT</a>
                 <a href="/">PROJECTS</a>
                 <a href="/">CONTACT</a>
-            </nav>
+            </nav> */}
             <button onClick={toggleMode} className={props.darkMode ? 'toggleOn' : 'toggleOff'}>Dark Mode</button>
         </section>
     )
