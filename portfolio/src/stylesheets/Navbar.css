@@ -5,7 +5,13 @@
     font-size: 1.3em;
     background-color: black;
     color: white;
-    box-sizing: content-box;
+    padding: 1%;
+    clip-path: polygon(
+        0 0,
+        100% 0,
+        100% 100%,
+        0 calc(100% - 2vw)
+    );
 }
 
 .navbar h1 {
@@ -21,9 +27,12 @@
 .navbar a {
     color: white;
     text-decoration: none;
-    font-size: 1.2em;
-    margin: 5%;
-    padding: 2%;
+    font-size: 1.3em;
+    font-weight: 600;
+    display: flex;
+    width: 95%;
+    margin-top: 3vh;
+    justify-content: space-evenly;
 }
 
 .navbar a:hover {
