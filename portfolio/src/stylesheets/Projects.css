@@ -4,12 +4,6 @@
     background-color: black;
     color: white;
     padding: 1%;
-    clip-path: polygon(
-        0 3vh, 
-        100% 0px, 
-        100% 100%, 
-        0px calc(100% - 3vh)
-    );
 }
 
 .projects h2 {
