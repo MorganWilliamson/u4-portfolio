@@ -10,19 +10,6 @@
     font-size: 1.5em;
 }
 
-.footerSM {
-    width: 5%;
-    height: 5%;
-    margin: 1%;
-}
-
-.footerSM a {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    color: black;
-}
-
 .footer h4 {
     text-align: left;
     margin-top: 7.5%;
