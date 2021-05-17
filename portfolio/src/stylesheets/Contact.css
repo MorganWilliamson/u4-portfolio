@@ -3,6 +3,9 @@
     flex-direction: column;
     padding-left: 2%;
     font-size: 1.5em;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px black;
 }
 
 .SMlinks {
@@ -11,4 +14,15 @@
     align-items: center;
     width: 90%;
     margin: 1% 5%;
+}
+
+.contact a:link {
+    color: white;
+    background-color: transparent;
+}
+
+.contact a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
 }
