@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 
-export const useDarkMode = () => {
-    const [mode, setMode] = useState("lightMode");
+const useDarkMode = () => {
+    const [mode, setMode] = useState("light");
 
     const toggleMode = () => {
-        if (mode === "darkMode") {
-            setMode("lightMode")
+        if (mode === "dark") {
+            setMode("light")
         } else {
-            setMode("darkMode")
+            setMode("dark")
         }
     }
 
@@ -23,3 +23,5 @@ export const useDarkMode = () => {
         toggleMode
     }
 }
+
+export default useDarkMode;
