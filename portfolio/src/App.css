@@ -11,17 +11,12 @@ body {
   background: #6495ed;
 }
 
-
-
-/* App Styling */
-
-
-/* Dark Mode Styling */
-.toggleOff {
-  background: #ffffff;
+.lightMode {
+  background: #f4f4f4;
+  color: #444444;
 }
 
-.toggleOn {
-  background: #282c34;
-  color: #f4f4f4;
+.darkMode {
+  background: #444444;
+  color: #f4f4f4
 }

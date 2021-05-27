@@ -1,8 +1,27 @@
-import useLocalStorage from "./useLocalStorage";
+import { useEffect, useState } from "react";
 
-export const useDarkMode = (key, initialValue) => {
-    const [value, setValue] = useLocalStorage(key, initialValue);
-    return [value, setValue]
-};
+const useDarkMode = () => {
+    const [mode, setMode] = useState("light");
 
-// update after component positions and basic styles are set
+    const toggleMode = () => {
+        if (mode === "dark") {
+            setMode("light")
+        } else {
+            setMode("dark")
+        }
+    }
+
+    useEffect(() => {
+        const localMode = localStorage.getItem("mode")
+        if (localMode) {
+            setMode(localMode)
+        }
+    }, [])
+
+    return {
+        mode, 
+        toggleMode
+    }
+}
+
+export default useDarkMode;
