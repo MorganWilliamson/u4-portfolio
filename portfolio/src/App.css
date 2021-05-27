@@ -17,11 +17,3 @@ body {
 
 
 /* Dark Mode Styling */
-.toggleOff {
-  background: #ffffff;
-}
-
-.toggleOn {
-  background: #282c34;
-  color: #f4f4f4;
-}

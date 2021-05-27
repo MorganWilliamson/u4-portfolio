@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import './App.css';
+
+// Component Imports
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Projects from "./components/Projects";
