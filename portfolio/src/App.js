@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 const App = () => {
 
   return (
-    <div className="App">
+    <div className="lightMode">
       <header className="App-header">
         <Navbar/>
       </header>

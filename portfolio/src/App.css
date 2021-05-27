@@ -10,3 +10,13 @@ body {
   margin: 0;
   background: #6495ed;
 }
+
+.lightMode {
+  background: #f4f4f4;
+  color: #444444;
+}
+
+.darkMode {
+  background: #444444;
+  color: #f4f4f4
+}
