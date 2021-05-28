@@ -26,16 +26,6 @@ const Projects = () => {
                     </ul>
                 </a>
 
-                <a href="https://github.com/MorganWilliamson/pokeapi-test" rel="noreferrer" target="_blank">
-                    <h4>React PokéDex</h4>
-                    <p>A simple "PokéDex" web app <br/>with search functionality<br/> that utilizes the PokéAPI.</p>
-                    <ul>Tools Used:
-                        <li>React</li>
-                        <li>JavaScript</li>
-                        <li>PokéAPI</li>
-                    </ul>
-                </a>
-
                 <a href="https://github.com/BW-webft16-CO-MAKE/back-end" rel="noreferrer" target="_blank">
                     <h4>Co-Make</h4>
                     <p>Community driven app for <br/>tracking local issues such<br/> as hazards or vandalism.</p>

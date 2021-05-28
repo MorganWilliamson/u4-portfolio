@@ -12,26 +12,6 @@
     font-size: 2.2em;
 }
 
-.navbar nav {
-    display: flex;
-    width: 25%;
-}
-
-.navbar a {
-    color: white;
-    text-decoration: none;
-    font-size: 1.3em;
-    font-weight: 600;
-    display: flex;
-    width: 95%;
-    margin-top: 3vh;
-    justify-content: space-evenly;
-}
-
-.navbar a:hover {
-    color: orange;
-}
-
 .navbar button {
     margin-top: 2%;
     height: 40%;
