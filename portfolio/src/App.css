@@ -23,3 +23,16 @@ body {
   background: #444444;
   color: #f4f4f4
 }
+
+button {
+  background: none;
+  border: 2px solid #f4f4f4;
+  padding: 1%;
+  color: #f4f4f4;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+}
+
+button:hover {
+  border: 2px dashed #f4f4f4;
+}
