@@ -19,7 +19,7 @@ const App = () => {
       <section className="navbar">
           <h1>Morgan Williamson</h1>
           <button type="button" onClick={toggleMode}>
-            Background Theme
+            Toggle Dark Theme
           </button>
       </section>
         <About />

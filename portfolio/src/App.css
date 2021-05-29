@@ -36,3 +36,9 @@ button {
 button:hover {
   border: 2px dashed #f4f4f4;
 }
+
+/* Media Queries */
+
+/* @media (max-width: 800px) {
+  
+} */
