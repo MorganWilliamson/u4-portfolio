@@ -1,24 +1,24 @@
 # Portfolio Site #
 
-## Hello!
-If you're reading this, thank you for taking the time to view my portfolio page. Here you'll find links (repos and deployed sites) to some of the most recent projects I've worked on, and links to my social media as well.
+## Hello there!
+If you're reading this, first off let me say thank you for taking the time to view my portfolio page. Here you'll find repo links to some of the projects I've worked on, and links to my social media as well. I'll be updating and revamping this site over time, as I learn new skills and tinker with new technologies. There's always going to be room for improvement, no matter how many years of experience someone has! 
 
-## Site Composition:
+## Composition:
 This site was composed using:
-- React, primarily, with each chunk of the page (as outlined below) built in its own React component. 
-- Dark Mode is a controlled by a hook, intended to switch active stylesheets for the page when clicked. 
+- Genreal styling is done with CSS.
+- Each section of the page is built in its own React component. 
+- Dark Mode is a controlled by a React hook. 
 
-## URL
-- You can find a link to the deployed site here:
- [insert URL here]
+## URL:
+- You can find a link to the deployed site [here](https://morganwilliamson.vercel.app/).
 
-## Author
-- Morgan Williamson
-- [GitHub](https://github.com/MorganWilliamson) 
-- [LinkedIn](https://www.linkedin.com/in/morgan-t-williamson/)
-- [Twitter](https://twitter.com/MorganW_dev)
-
-## Resources
-- Site hosted on 
-- Laptop image provided open source from James Harrison, via Unsplash: https://unsplash.com/photos/vpOeXr5wmR4
-- Social Media icons provided by Simple Icons, at: https://simpleicons.org 
+## Contact Links:
+- If you have any questions, comments, or otherwise wish to reach out, please feel free to contact me at any of these sites!
+- :computer: [GitHub](https://github.com/MorganWilliamson) 
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/morgan-t-williamson/)
+- :bird: [Twitter](https://twitter.com/MorganW_dev) 
+ 
+## Resources:
+- The site is hosted on [Vercel](https://vercel.com/).
+- Laptop image provided open source from James Harrison, via [Unsplash](https://unsplash.com/photos/vpOeXr5wmR4).
+- Social Media icons provided by [Simple Icons](https://simpleicons.org).
