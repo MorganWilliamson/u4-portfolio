@@ -11,17 +11,13 @@ body {
 }
 
 .lightMode {
-  background: #6495ed;
-  color: #f4f4f4;
-}
-
-.lightMode h1, h2, h3, h4, p, ul, li, a {
-  color: #f4f4f4;
+  background: grey;
+  color: #444444;
 }
 
 .darkMode {
   background: #444444;
-  color: #f4f4f4
+  color: #f4f4f4;
 }
 
 button {
@@ -34,7 +30,7 @@ button {
 }
 
 button:hover {
-  border: 2px dashed #f4f4f4;
+  border: 2px dashed #444444;
 }
 
 /* Media Queries */
