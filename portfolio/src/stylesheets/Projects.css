@@ -1,13 +1,8 @@
 .projects {
     margin-top: 1%;
     font-size: 1.5em;
-    background-color: black;
-    color: white;
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
     padding: 1%;
-}
-
-.projects h2 {
-    padding-left: 2%;
 }
 
 .projectsContainer {
